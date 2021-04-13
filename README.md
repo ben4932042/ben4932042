@@ -4,6 +4,8 @@
 - 🔭 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Create My personal ETL module
 - ⚡ Fun fact: I love to self-studying and solving problems
+- 🥅 2021 Goals: Improve programming ability
+
 
 ```
  UNIX was not designed to stop its users from doing stupid things, 
