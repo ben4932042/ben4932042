@@ -1,10 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ben Liu 👋
 
-## I'm a Junior Data Engineer!
 - 🔭 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Create My personal ETL module
 - ⚡ Fun fact: I love to self-studying and solving problems
 - 🥅 2021 Goals: Improve programming ability
+- 🥅 2022 Goals: Learn more about Infra. as code
 
 
 ```
