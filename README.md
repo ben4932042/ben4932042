@@ -5,7 +5,7 @@
 - 🥅 2020 Goals: Create My personal ETL module
 - 🥅 2021 Goals: Improve programming ability
 - 🥅 2022 Goals: Learn more about Infra. as code
-- 🥅 2022 Goals: Work life balance
+- 🥅 2023 Goals: Work life balance
 
 ```
  UNIX was not designed to stop its users from doing stupid things, 
